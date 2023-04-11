@@ -21,9 +21,10 @@ body:
     placeholder: Enter profile
   validations:
     required: true
-- type: input
+- type: textarea
   attributes:
     label: Mailing Address
+    render: text
     description: Please fill in a mailing address where you can be contacted in an emergency
     placeholder: Enter mailing address
   validations:
@@ -35,10 +36,9 @@ body:
     placeholder: Enter a social account, such as twitter@James
   validations:
     required: true
-- type: textarea
+- type: input
   attributes:
     label: Miner ID
-    render: text
     description: Please fill in at least one miner ID
     placeholder: Enter miner ID, Please use multiple IDs, separated
   validations:
