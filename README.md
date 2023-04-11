@@ -1,6 +1,14 @@
 # Community
 
-
+- [Community](#community)
+  - [About](#about)
+  - [Join the Community](#join-the-community)
+    - [MFIL DAO Community Forum](#mfil-dao-community-forum)
+    - [GitHub issues](#github-issues)
+    - [Security issues and disclosures](#security-issues-and-disclosures)
+  - [Useful links](#useful-links)
+  - [Maintainers](#maintainers)
+  - [Copyright](#copyright)
 
 ## About
 
@@ -46,7 +54,7 @@ We love to hear what the community has to say, whether it is to:
 
 The discussion forum uses the same [Code of Conduct](https://github.com/sghmok/Community/blob/main/CODE-OF-CONDUCT.md) as our other community channels. Please make sure to read this before posting.
 
-### GitHub Issues
+### GitHub issues
 
 If you find something puzzling or encounter a straight-up bug in any of our repositories, please file a well-scoped issue. The issue lists for our most active repositories are below:
 
