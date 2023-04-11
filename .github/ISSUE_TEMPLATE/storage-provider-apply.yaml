@@ -32,7 +32,7 @@ body:
   attributes:
     label: Social Account
     description: Please fill in a social account that can get in touch with you in an emergency
-    placeholder: Enter social address
+    placeholder: Enter a social account, such as twitter@James
   validations:
     required: true
 - type: textarea
